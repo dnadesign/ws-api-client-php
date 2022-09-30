@@ -38,7 +38,7 @@ namespace WsApiClient;
  * @author      Swagger Codegen team
  * @link        https://github.com/swagger-api/swagger-codegen
  */
-class MarketTest extends \PHPUnit_Framework_TestCase
+class MarketTest extends \PHPUnit\Framework\TestCase
 {
 
     /**

@@ -40,7 +40,7 @@ use \WsApiClient\ObjectSerializer;
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */
-class CountriesApiTest extends \PHPUnit_Framework_TestCase
+class CountriesApiTest extends \PHPUnit\Framework\TestCase
 {
 
     /**

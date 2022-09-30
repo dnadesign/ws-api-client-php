@@ -38,7 +38,7 @@ namespace WsApiClient;
  * @author      Swagger Codegen team
  * @link        https://github.com/swagger-api/swagger-codegen
  */
-class ModelWithTrimsTest extends \PHPUnit_Framework_TestCase
+class ModelWithTrimsTest extends \PHPUnit\Framework\TestCase
 {
 
     /**

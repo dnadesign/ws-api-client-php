@@ -38,7 +38,7 @@ namespace WsApiClient;
  * @author      Swagger Codegen team
  * @link        https://github.com/swagger-api/swagger-codegen
  */
-class AggregationTest extends \PHPUnit_Framework_TestCase
+class AggregationTest extends \PHPUnit\Framework\TestCase
 {
 
     /**

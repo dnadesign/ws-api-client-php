@@ -38,7 +38,7 @@ namespace WsApiClient;
  * @author      Swagger Codegen team
  * @link        https://github.com/swagger-api/swagger-codegen
  */
-class WheelPairTest extends \PHPUnit_Framework_TestCase
+class WheelPairTest extends \PHPUnit\Framework\TestCase
 {
 
     /**
